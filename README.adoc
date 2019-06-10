@@ -2,5 +2,5 @@
 A basic application to understand working for BDD
 
 
-Python 3.6
+image::https://img.shields.io/badge/python-3.6+-blue.svg[link=https://www.python.org/downloads/release/python-367/]
 Tested cosine function using behaviour driven development using behave package of given python version  
