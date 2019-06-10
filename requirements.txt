@@ -1,2 +1,2 @@
-Python Version :- 3.6.7
+
 Behave Version :- 1.2.6
